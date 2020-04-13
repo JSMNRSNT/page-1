@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&display=swap');
+body {
+    font-size: 24px;
+    font-family: "Baloo Bhai 2";
+    text-align:center; 
+    background-color: lightpink;
+}
+h1{
+    color:white;
+    border-style: dotted;
+    border-width: 5px;
+    background-color:grey;
+    margin: 50px 40px 50px 40px;
+}
+h2{
+    font-size: 20px;
+}
+.grey-border{
+    border-radius: 70%;
+    border-style: solid;
+    border-color: white;
+}
