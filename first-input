@@ -1,4 +1,4 @@
-<html>
+<link rel="stylesheet" type="text/css" href="https://jsmnrsnt.github.io/page-1"
 	<head>
 		<h1>Hello World</h1>
 	</head>
@@ -10,4 +10,3 @@
 		    	<p><button onclick="window.location.href = 'https://medium.com/@jsmnrsnt';">Let's get personal</button></p>
 		</div.a>
 	</body>
-</html>
