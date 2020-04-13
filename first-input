@@ -1,11 +1,5 @@
-	<head>
-		<h1>Hello World</h1>
-	</head>
-	<body>
-		<img class="grey-border" src="https://media-exp1.licdn.com/dms/image/C5603AQEG0GxvOPWAvA/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=md93Tv9SmYuoRzY_zzcw9nPTqMcezR8VRxfKf1ivUd4">
-		<h2>I'm Jasmine</h2>
-		<div.a>
+<h1>Hello World</h1>
+	<img class="grey-border" src="https://media-exp1.licdn.com/dms/image/C5603AQEG0GxvOPWAvA/profile-displayphoto-shrink_200_200/0?e=1592438400&v=beta&t=md93Tv9SmYuoRzY_zzcw9nPTqMcezR8VRxfKf1ivUd4">
+	<h2>I'm Jasmine</h2>
 		        <p><button onclick="window.location.href = 'https://www.linkedin.com/in/jasminenauta/';">Let's get professional</button></p>
 		    	<p><button onclick="window.location.href = 'https://medium.com/@jsmnrsnt';">Let's get personal</button></p>
-		</div.a>
-	</body>
